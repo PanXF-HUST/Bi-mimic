@@ -1,1 +1,1 @@
-# Bi-mimic learning for Occluded pedestrian
+# Bi-mimic Learning for Occluded Pedestrian Detection
